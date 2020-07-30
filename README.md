@@ -10,7 +10,6 @@ I'm currently working on improving my Rust-lang skills, I have some nice _rusty_
 <!-- notes starts -->
 * Here I publish my personal and general purpose projects, for anything more focused on security I usually push to [/hcninja](https://github.com/hcninja).
 <!-- notes ends -->
-More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 </td><td valign="top" width="50%">
 
