@@ -15,7 +15,7 @@ I'm currently working on improving my Rust-lang skills, I have some nice _rusty_
 
 ### On my blog
 <!-- blog starts -->
-* [Quick intro to go assembly](http://https://blog.hackercat.ninja/2018/quick_intro_to_go_assembly/) - 2018-03-23
+* [Quick intro to go assembly](https://blog.hackercat.ninja/2018/quick_intro_to_go_assembly/) - 2018-03-23
 * [Cracking Cisco’s Sourcefire licensing](https://blog.hackercat.ninja/2018/cracking_ciscos_sourcefire_licensing/) - 2018-04-02
 * [Pandora's Box](https://blog.hackercat.ninja/2018/pandoras_box/) - 2018-06-07
 <!-- blog ends -->
