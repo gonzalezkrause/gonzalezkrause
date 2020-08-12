@@ -1,6 +1,6 @@
 ## Hi all! 👋
 
-I'm currently working on improving my Rust-lang skills, I have some nice _rusty_ ideas ;)
+~I'm currently working on improving my Rust-lang skills, I have some nice _rusty_ ideas ;)~ Rust sucks for the most of things :)
 
 <table>
 
