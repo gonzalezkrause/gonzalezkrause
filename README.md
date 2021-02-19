@@ -1,6 +1,6 @@
 ## Hi all! 👋
 
-- ~🌱 I'm currently learning Rust-lang, I have some nice _rusty_ ideas ;)~ Rust sucks for the most of things :)
+- 🌱 I like space.
 
 <table>
 
